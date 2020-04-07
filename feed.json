@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "新屎黨 | New Shit Party",
+    "description": "",
+    "home_page_url": "https://nsp.poyi.tk",
+    "feed_url": "https://nsp.poyi.tk/feed.json",
+    "user_comment": "",
+    "icon": "https://nsp.poyi.tk/media/website/1.0.png",
+    "author": {
+        "name": "Poyi Hong"
+    },
+    "items": [
+        {
+            "id": "https://nsp.poyi.tk/chuang-dang-li-nian-or-main-idea-of-the-party.html",
+            "url": "https://nsp.poyi.tk/chuang-dang-li-nian-or-main-idea-of-the-party.html",
+            "title": "創黨理念 | Main idea of the party",
+            "image": "https://nsp.poyi.tk/media/posts/1/1.0.png",
+            "author": {
+                "name": "Poyi Hong"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-07T19:38:50+08:00",
+            "date_modified": "2020-04-07T19:38:50+08:00"
+        }
+    ]
+}

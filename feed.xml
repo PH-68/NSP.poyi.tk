@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>新屎黨 | New Shit Party</title>
+    <link href="https://nsp.poyi.tk/feed.xml" rel="self" />
+    <link href="https://nsp.poyi.tk" />
+    <updated>2020-04-07T19:43:57+08:00</updated>
+    <author>
+        <name>Poyi Hong</name>
+    </author>
+    <id>https://nsp.poyi.tk</id>
+
+    <entry>
+        <title>創黨理念 | Main idea of the party</title>
+        <author>
+            <name>Poyi Hong</name>
+        </author>
+        <link href="https://nsp.poyi.tk/chuang-dang-li-nian-or-main-idea-of-the-party.html"/>
+        <id>https://nsp.poyi.tk/chuang-dang-li-nian-or-main-idea-of-the-party.html</id>
+
+        <updated>2020-04-07T19:38:50+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
