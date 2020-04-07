@@ -3,12 +3,36 @@
     <title>新屎黨 | New Shit Party</title>
     <link href="https://nsp.poyi.tk/feed.xml" rel="self" />
     <link href="https://nsp.poyi.tk" />
-    <updated>2020-04-07T19:43:57+08:00</updated>
+    <updated>2020-04-07T21:11:13+08:00</updated>
     <author>
         <name>Poyi Hong</name>
     </author>
     <id>https://nsp.poyi.tk</id>
 
+    <entry>
+        <title>強烈譴責!</title>
+        <author>
+            <name>Poyi Hong</name>
+        </author>
+        <link href="https://nsp.poyi.tk/qiang-lie.html"/>
+        <id>https://nsp.poyi.tk/qiang-lie.html</id>
+
+        <updated>2020-04-07T20:51:23+08:00</updated>
+            <summary>
+                <![CDATA[
+                    本黨及黨同志們強烈譴責 停止他黨干預我黨之三核心主義 目前 敵對黨黨機器動的相當厲害 我黨目前正研究對策 請黨員物慌亂 堅守三不原則(不信,不理會,不加入) -願榮光歸新屎黨
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>本黨及黨同志們強烈譴責</p>
+<p>停止他黨干預我黨之<strong>三核心主義</strong></p>
+<p>目前 敵對黨黨機器動的相當厲害</p>
+<p>我黨目前正研究對策 請黨員物慌亂 堅守<strong>三不原則</strong>(不信,不理會,不加入)</p>
+<p>-願榮光歸新屎黨</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>創黨理念 | Main idea of the party</title>
         <author>
@@ -17,8 +41,28 @@
         <link href="https://nsp.poyi.tk/chuang-dang-li-nian-or-main-idea-of-the-party.html"/>
         <id>https://nsp.poyi.tk/chuang-dang-li-nian-or-main-idea-of-the-party.html</id>
 
-        <updated>2020-04-07T19:38:50+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-04-07T20:25:50+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nsp.poyi.tk/media/posts/1/1.0.png" alt="" />
+                    1. 創立原則 - 本黨以 三核心主義 為原則創立民主 - 所有事情以投票表決 以人為本平等 - 所有黨員皆平等 並不會因年紀等條件而有所區別自由 - 所有黨員所做的事情皆為自由的 本黨或黨員無法干預2. 黨名命名理念本黨為跟上時代潮流 在所有名子前加上新就自以為很朝 故稱 新屎黨黨主席因上廁所沒沖水被糾正 便決心振作 力求改革 故稱 新屎黨
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nsp.poyi.tk/media/posts/1/1.0.png" alt="" />
+                <div>1.  創立原則 - 本黨以 <strong>三核心主義</strong> 為原則創立</div>
+<ul>
+<li>民主 - 所有事情以投票表決 以人為本</li>
+<li>平等 - 所有黨員皆平等 並不會因年紀等條件而有所區別</li>
+<li>自由 - 所有黨員所做的事情皆為自由的 本黨或黨員無法干預</li>
+</ul>
+<p>2.  黨名命名理念</p>
+<ul>
+<li>本黨為跟上時代潮流 在所有名子前加上新就自以為很朝 故稱 <strong>新</strong>屎黨</li>
+<li>黨主席因上廁所沒沖水被糾正 便決心振作 力求改革 故稱 新<strong>屎</strong>黨</li>
+</ul>
+            ]]>
+        </content>
     </entry>
 </feed>
